@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8B0000&textBg=false&fontAlign=32"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+André+Medeiros;I'm+a+Software+Developer;I'm+from+Brazil;Welcome+to+my+profile!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=1000&lines=Hello!!;+My+name+is+André;I'm+a+Software+Developer;I'm+from+Brazil;Be+Welcome!+:D)](https://git.io/typing-svg)
 
 [![Instagram Badge](https://img.shields.io/badge/-@andrezinmedeiros-pink?style=flat&logo=instagram&logoColor=#FF0000&link=https://www.instagram.com/andrezinmedeiros/)](https://www.instagram.com/andrezinmedeiros/)
 
@@ -61,6 +61,11 @@
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreLGDM&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndreLGDM&s=50&c=931515&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+</p> 
 
 
 <!--
