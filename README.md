@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,5,30&textBg=false&fontAlign=32"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8B0000&textBg=false&fontAlign=32"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+André+Medeiros;I'm+a+Software+Developer;I'm+from+Brazil;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
@@ -17,9 +17,6 @@
 💡 Motivado pelas inovações que a programação pode gerar e pelo amplo horizonte que oferece.
 
 🦅 Em busca diária de expandir meus conhecimentos.
-
-Espero que essa versão fique mais atraente e sucinta!
-
 
 
 <div align="center">
