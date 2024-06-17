@@ -1,8 +1,8 @@
-## Olá, sou André 🙂
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,5,30&textBg=false&fontAlign=32"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+André+Medeiros;I'm+a+Software+Developer;I'm+from+Brazil;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
 [![Instagram Badge](https://img.shields.io/badge/-@andrezinmedeiros-pink?style=flat&logo=instagram&logoColor=#FF0000&link=https://www.instagram.com/andrezinmedeiros/)](https://www.instagram.com/andrezinmedeiros/)
-
-Seja bem vindos ao meu perfil!
 
 📍 Natural de Juiz de Fora, MG, e atualmente morando em Alegrete, RS.
 
@@ -59,13 +59,11 @@ Espero que essa versão fique mais atraente e sucinta!
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AndreLGDM&theme=windows-dark&border_radius=20&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=45%2C000000%2C000000&dates=FF2F2F&currStreakNum=EBEBEB&border=6A0000&ring=EBEBEB&fire=EB0000&sideNums=EB0000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&stroke=ADADAD" alt="GitHub Streak" /></a>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLGDM&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=b22222&border_color=b22222&langs_count=10&exclude_repo=kasweb">
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLGDM&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=b22222&border_color=b22222&langs_count=10&exclude_repo=kasweb">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreLGDM&count_private=true&show_icons=true&line_height=21&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=b22222&border_color=b22222&theme=graywhite">
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreLGDM&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
