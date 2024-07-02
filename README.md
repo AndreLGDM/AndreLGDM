@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=1000&lines=Hello!!;+My+name+is+André;I'm+a+Software+Developer;I'm+from+Brazil;Be+Welcome!+:D)](https://git.io/typing-svg)
 
-[![Instagram Badge](https://img.shields.io/badge/-@andrezinmedeiros-pink?style=flat&logo=instagram&logoColor=#FF0000&link=https://www.instagram.com/andrezinmedeiros/)](https://www.instagram.com/andrezinmedeiros/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/andrezinmedeiros/)](https://www.instagram.com/andrezinmedeiros/)
 
 📍 Natural de Juiz de Fora, MG, e atualmente morando em Alegrete, RS.
 
