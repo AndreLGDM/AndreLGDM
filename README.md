@@ -8,7 +8,7 @@
 
 🎓 Estou cursando [Engenharia de Software](https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/), imerso em desafios empolgantes e aprendizados contínuos.
 
-<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/><img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="20"/> Trabalho atualmente com Flutter e Dart em um projeto para a <a href="https://www.tryber.com.br/pt/a-empresa">Tryber</a>.
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/><img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="20"/> Ultimo Trabalho com Flutter e Dart em um projeto para a <a href="https://www.tryber.com.br/pt/a-empresa">Tryber</a>.
 
 🚀 Descobri uma paixão pela programação que antes não conhecia.
 
